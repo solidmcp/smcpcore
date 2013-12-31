@@ -1,0 +1,4 @@
+smcpcore
+========
+
+SolidMCP Core Components
